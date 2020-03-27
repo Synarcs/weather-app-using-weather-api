@@ -3,8 +3,8 @@ import Form from './Form';
 import Weather from './Weather';
 import str from './str';
 
-const api_key = "32f5b5f40a26aba395efea754525ca81";
-const api_key_time = "AIzaSyBIV7cZdRPAp1ixdhia3jZ4Ev0-FOXdLSI"
+const api_key = "";
+const api_key_time = ""
 class App extends Component {
   state={
     name : undefined,
